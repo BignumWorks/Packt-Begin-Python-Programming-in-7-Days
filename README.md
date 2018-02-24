@@ -1,1 +1,1 @@
-Code Examples for Packt's Video Course - Deep Learning for Beginners with Python
+Code Examples for Packt's Video Course - Begin Python Programming in 7 Days
